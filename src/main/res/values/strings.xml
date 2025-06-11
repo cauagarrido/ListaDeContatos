@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Projeto Lista Contatos</string>
+
+    <string name="name_hint">Digite o nome</string>
+    <string name="email_hint">Digite o email</string>
+    <string name="phone_hint">Digite o telefone</string>
+    <string name="cpf_hint">Digite o CPF</string>
+    <string name="save_button">Salvar</string>
+    <string name="add_contact_description">Adicionar novo contato</string>
+    <string name="login_hint">Digite seu login</string>
+    <string name="password_hint">Digite sua senha</string>
+    <string name="login_button">Entrar</string>
+    <string name="edit_option">Editar</string>
+    <string name="delete_option">Excluir</string>
+    <string name="edit_contact_title">Editar Contato</string>
+    <string name="add_contact_title">Adicionar Contato</string>
+    <string name="error_fill_all_fields">Preencha todos os campos obrigatórios</string>
+    <string name="error_cpf_exists">Este CPF já está cadastrado</string>
+    <string name="yes">Sim</string>
+    <string name="no">Não</string>
+    <string name="delete_confirmation">Tem certeza que deseja excluir este contato?</string>
+    <string name="error_invalid_login">Login ou senha inválidos</string> <!-- 👈 nova linha -->
+</resources>
